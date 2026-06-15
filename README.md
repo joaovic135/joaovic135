@@ -1,7 +1,6 @@
 ### About me:
 
 - 👋 **Hi, I’m João victor** 
-- 👀 **Frontend Junior Developer at ClickIp Group**.
 - :book: **B.S. in Software Engineering**
   * Federal University of Amazonas, Manaus
   * Graduated April 2024
